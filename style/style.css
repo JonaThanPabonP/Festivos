@@ -12,8 +12,8 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: rgba( 255, 255, 255, 0.15 );
-    box-shadow: 0 8px 32px 0 rgba(177, 179, 203, 0.588);
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 8px 32px 0 rgba(177, 179, 203, 0.15);
     backdrop-filter: blur( 5px );
     -webkit-backdrop-filter: blur( 5px );
     border-radius: 10px;
